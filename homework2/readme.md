@@ -10,4 +10,4 @@ Overall, I tried to mimic the structure of the html shown in class, spliting thi
 
 ### Live Link
 
-[Blog Page](https://{username}.github.io/{reponame}/homework-2)
+[Blog Page](https://Jygged.github.io/InfoInfrastructure/homework-2)
